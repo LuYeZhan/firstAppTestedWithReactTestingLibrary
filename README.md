@@ -12,7 +12,7 @@ This is an app to learn TDD using React testing library.
 
 ## Devstacks
 
-React.js
+React.js, jest-dom(for testing), 
 
 ## Components
 
